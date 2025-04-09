@@ -1,7 +1,6 @@
-# IGames Inc Assessment
+# Ecommerse Store Page
 
 * Author: Brady Driebergen
-* Position Applied For: Junior Full-Stack Developer
 * Date: March 25, 2025
 
 ## Overview
@@ -17,8 +16,7 @@ display only.
 ## Reflection
 
 This project was a very entertaining one! I enjoyed the challenge of replicating
-a common ecommerce webpage. I feel very good with my solution, and I'm excited 
-for you to take a look at my work. Some of the features I'm proud of the most
+a common ecommerce webpage. Some of the features I'm proud of the most
 is the compatibility with different resolutions/screen sizes, showing product
 information when a product card is clicked, and the overall look of the webpage.
 
@@ -29,10 +27,6 @@ star icons to show the appropriate rating of each product. I've also never used
 typescript before but thankfully, it was very similar to JavaScript. In the 
 end however, I am happy with my work and I hope you are impressed. 
 
-I can't tell you enough how honored I am to be in the running for this position.
-I know I'm still new to full-stack, but I promise to show the same amount of 
-dedication and care if I get the job. Thank you all so much for everything, and
-I eagerly await your response.
 
 ## Compiling and Using
 
